@@ -1,2 +1,4 @@
 # Books to Read
-An Elegant Puzzle: Systems of Engineering Management 
+- [ ] DDD
+
+- [ ] An Elegant Puzzle: Systems of Engineering Management 
